@@ -1,2 +1,4 @@
 # OOP-EXERCISE-1
 Grading System Code
+MARCOS, ANGEL MATTHEW D.
+BSCPE 1 - 1
